@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhakarmishra2011&label=Profile%20views&color=0e75b6&style=flat" alt="sudhakarmishra2011" /> </p>
 
-- 🔭 I’m currently working on the personal project [Movix](https://github.com/sudhakarmishra2011/Movix)
+- 🔭 I’m currently working on the personal project [EditorBro](https://github.com/sudhakarmishra2011/EditorBro)
 
 - 🌱 I’m currently learning **Node JS**
 
